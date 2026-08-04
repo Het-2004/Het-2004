@@ -1,250 +1,226 @@
-<!-- ================================================================
-     ██╗  ██╗███████╗████████╗    ███████╗ ██████╗ ██╗      █████╗ ███╗   ██╗██╗  ██╗██╗
-     ██║  ██║██╔════╝╚══██╔══╝    ██╔════╝██╔═══██╗██║     ██╔══██╗████╗  ██║██║ ██╔╝██║
-     ███████║█████╗     ██║       ███████╗██║   ██║██║     ███████║██╔██╗ ██║█████╔╝ ██║
-     ██╔══██║██╔══╝     ██║       ╚════██║██║   ██║██║     ██╔══██║██║╚██╗██║██╔═██╗ ██║
-     ██║  ██║███████╗   ██║       ███████║╚██████╔╝███████╗██║  ██║██║ ╚████║██║  ██╗██║
-     ╚═╝  ╚═╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝
-     ================================================================ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════════╗
+     ║          G I T H U B   P R O F I L E  —  H E T   S O L A N K I             ║
+     ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
+<!-- ┌─────────────────── HEADER ───────────────────┐ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HET%20SOLANKI&fontSize=80&fontColor=00FFFF&animation=twinkling&fontAlignY=45&stroke=00FFFF&strokeWidth=2&desc=◈%20Software%20Engineer%20◈%20Full%20Stack%20Developer%20◈%20Problem%20Solver%20◈&descAlignY=68&descColor=ffffff&descSize=16" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=2500&pause=600&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=⚡+Initializing+Software+Engineer+Mode...;🔭+Building+the+future+with+full+stack+mastery;💡+Solving+complex+problems+one+commit+at+a+time;🧠+DSA+%7C+React+%7C+Node+%7C+Spring+Boot+%7C+Cloud;🚀+Open+for+Exciting+Opportunities!" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=HET%20SOLANKI&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=44&stroke=00F5FF&strokeWidth=2&desc=⚡%20Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver%20⚡&descAlignY=66&descColor=00F5FF&descSize=17" />
 
 <br/>
 
-<a href="https://linkedin.com/in/hetsolanki">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0d1117" />
-</a>
-<a href="https://instagram.com/vasu_solanki_2">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
-</a>
-<a href="https://stackoverflow.com/users/31159824">
-  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0d1117" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=720&lines=🚀+Building+scalable+full-stack+applications;💡+Transforming+ideas+into+elegant+code;🧠+DSA+Enthusiast+%7C+Algorithmic+Thinker;⚙️+React+%7C+Node.js+%7C+Spring+Boot+%7C+Cloud;🌐+Open+to+exciting+opportunities!" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/hetsolanki" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://instagram.com/vasu_solanki_2" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;
+<a href="https://stackoverflow.com/users/31159824" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>&nbsp;
 <a href="mailto:hetpravinbhaisolanki2122004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Het-2004&style=for-the-badge&color=00FFFF&labelColor=0d1117&label=PROFILE+VISITORS" />
-<img src="https://img.shields.io/github/followers/Het-2004?style=for-the-badge&color=00FFFF&labelColor=0d1117&logo=github&label=FOLLOWERS" />
+<img src="https://komarev.com/ghpvc/?username=Het-2004&style=for-the-badge&color=00F5FF&labelColor=0d1117&label=VISITORS" />&nbsp;
+<img src="https://img.shields.io/github/followers/Het-2004?style=for-the-badge&color=00F5FF&labelColor=0d1117&logo=github&label=FOLLOWERS" />
 
 </div>
 
----
+<br/>
 
-<!-- ================================================================
-                         TERMINAL BOOT SEQUENCE
-     ================================================================ -->
+<!-- ┌─────────────────── ABOUT ME ───────────────────┐ -->
+
+<img align="right" width="360" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding gif" />
+
+### `▸ whoami`
+
+```yaml
+name       : Het Solanki
+title      : Software Engineer & Full Stack Developer
+education  : Bachelor of Engineering — Computer Science
+location   : India 🇮🇳
+status     : 🟢 Open to Opportunities
+```
+
+### `▸ current_mission[]`
+
+```typescript
+const Het = {
+  learning  : ["Advanced DSA", "System Design", "Cloud Architecture"],
+  building  : ["Full Stack Web Apps", "REST APIs", "Microservices"],
+  exploring : ["DevOps Practices", "AI/ML Integration", "Open Source"],
+  belief    : "Clean code isn't written by chance — it's engineered with craft.",
+};
+```
+
+### `▸ fun_facts`
+
+- ⚡ I turn coffee into clean, scalable code
+- 🧩 DSA is my daily puzzle — I never get bored
+- 🔭 Exploring the intersection of great UX and solid backend logic
+- 🎯 One commit closer to the best version of myself every day
+
+<br clear="right" />
+
+<br/>
+
+<!-- ┌─────────────────── SKILLS BANNER ───────────────────┐ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+### ◈ &nbsp;TECH ARSENAL&nbsp; ◈
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=footer" width="100%"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║           >>>  SYSTEM BOOT SEQUENCE  <<<                            ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%  LOADED        ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- ================================================================
-                         WHOAMI SECTION
-     ================================================================ -->
-
-<table align="center" border="0">
+<table border="0" cellspacing="0" cellpadding="8">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### `> whoami`
+**🔤 Languages**
 
-```yaml
-┌─────────────────────────────────────┐
-│  IDENTITY PROFILE                   │
-├─────────────────────────────────────┤
-│  Name     : Het Solanki             │
-│  Role     : Software Engineer       │
-│           : Full Stack Developer    │
-│  Domain   : Computer Science & Eng  │
-│  Base     : India  🇮🇳              │
-├─────────────────────────────────────┤
-│  CURRENT MISSIONS                   │
-├─────────────────────────────────────┤
-│  [▸] Mastering DSA & Algorithms     │
-│  [▸] Full Stack Web Architecture    │
-│  [▸] Cloud & DevOps Practices       │
-│  [▸] Building scalable products     │
-├─────────────────────────────────────┤
-│  STATUS    : 🟢 AVAILABLE TO HIRE   │
-└─────────────────────────────────────┘
-```
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css&theme=dark&perline=3" />
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### `> ./passion.exe`
+**🎨 Frontend**
 
-```python
-class HetSolanki:
-    def __init__(self):
-        self.name       = "Het Solanki"
-        self.languages  = ["Java","Python","JS","C"]
-        self.frameworks = ["React","Spring","Node"]
-        self.databases  = ["MongoDB","MySQL","MSSQL"]
-        self.cloud      = ["Azure", "GCP", "Docker"]
-        self.passion    = "Clean Code + Innovation"
-        self.available  = True
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark&perline=3" />
 
-    def greet(self):
-        return (
-          "Hello World! 👋 I'm Het — a Software "
-          "Engineer who loves turning complex "
-          "ideas into elegant, scalable code. "
-          "Let's build something amazing! 🚀"
-        )
+</td>
+<td align="center" width="33%">
 
-me = HetSolanki()
-print(me.greet())
-```
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,hibernate,maven&theme=dark&perline=3" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark&perline=3" />
+
+</td>
+<td align="center">
+
+**☁️ Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=azure,gcp,docker,git&theme=dark&perline=3" />
+
+</td>
+<td align="center">
+
+**🤖 AI & Data Science**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,anaconda,raspberrypi&theme=dark&perline=3" />
 
 </td>
 </tr>
 </table>
 
----
-
-<!-- ================================================================
-                         TECH STACK - SKILLICONS
-     ================================================================ -->
-
-<div align="center">
-
-## ◈ Arsenal · Tech Stack ◈
+</div>
 
 <br/>
 
-**[ Languages ]**
+<!-- ┌─────────────────── PROFICIENCY BARS ───────────────────┐ -->
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css&theme=dark&perline=6" />
-</p>
-
-**[ Frontend ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark&perline=6" />
-</p>
-
-**[ Backend & Frameworks ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,hibernate,maven&theme=dark&perline=6" />
-</p>
-
-**[ Databases ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark&perline=6" />
-</p>
-
-**[ Cloud & DevOps ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,git,github,linux&theme=dark&perline=6" />
-</p>
-
-**[ Data Science & AI ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,anaconda,raspberrypi&theme=dark&perline=6" />
-</p>
+### ◈ &nbsp;EXPERTISE LEVELS&nbsp; ◈
 
 </div>
 
----
-
-<!-- ================================================================
-                         GITHUB ANALYTICS
-     ================================================================ -->
-
-<div align="center">
-
-## ◈ Mission Control · GitHub Analytics ◈
+```
+Java / Spring Boot   ████████████████████  95%  ██  Senior
+JavaScript / React   ███████████████████░  90%  ██  Advanced
+Python               ████████████████████  85%  ██  Advanced
+Node.js              ███████████████░░░░░  75%  ██  Intermediate+
+DSA & Algorithms     ████████████████████  90%  ██  Advanced
+MySQL / MongoDB      █████████████████░░░  80%  ██  Advanced
+Docker / DevOps      ██████████░░░░░░░░░░  50%  ██  Intermediate
+Cloud (Azure/GCP)    ████████████░░░░░░░░  60%  ██  Intermediate
+```
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Het-2004&theme=merko&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&icon_color=00FFFF&title_color=00FFFF&text_color=ffffff&bg_color=0d1117&border_radius=10">
-  <img src="https://github-readme-stats.vercel.app/api?username=Het-2004&theme=merko&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&icon_color=00FFFF&title_color=00FFFF&text_color=ffffff&bg_color=0d1117&border_radius=10" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://nirzak-streak-stats.vercel.app/?user=Het-2004&theme=merko&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=ffffff&dates=888888&background=0d1117&border_radius=10">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Het-2004&theme=merko&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=ffffff&dates=888888&background=0d1117&border_radius=10" width="49%" />
-</picture>
+<!-- ┌─────────────────── GITHUB ANALYTICS ───────────────────┐ -->
+<div align="center">
+
+### ◈ &nbsp;GITHUB ANALYTICS&nbsp; ◈
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Het-2004&theme=2077&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&icon_color=00F5FF&title_color=00F5FF&text_color=c9d1d9&bg_color=0d1117&border_radius=12" width="49%" alt="GitHub Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Het-2004&theme=dark&hide_border=true&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideNums=c9d1d9&dates=8b949e&background=0d1117&border_radius=12" width="49%" alt="Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-2004&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&border_radius=10" width="40%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-2004&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&border_radius=10" width="47%" />
-
-</div>
-
----
-
-<!-- ================================================================
-                         CONTRIBUTION GRAPH
-     ================================================================ -->
-
-<div align="center">
-
-## ◈ Pulse · Contribution Activity ◈
+<!-- Profile Summary Cards (much richer than basic stats) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Het-2004&theme=2077" width="100%" alt="Profile Activity" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Het-2004&bg_color=0d1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&area_color=00FFFF&hide_border=true&radius=10" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Het-2004&theme=2077" width="32%" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Het-2004&theme=2077" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Het-2004&theme=2077" width="32%" alt="Stats Card" />
 
 </div>
 
----
+<br/>
 
-<!-- ================================================================
-                         SNAKE ANIMATION
-     ================================================================ -->
-
+<!-- ┌─────────────────── CONTRIBUTION GRAPH ───────────────────┐ -->
 <div align="center">
 
-## ◈ Contribution Snake ◈
+### ◈ &nbsp;CONTRIBUTION PULSE&nbsp; ◈
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Het-2004&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&area_color=00F5FF20&hide_border=true&radius=12&custom_title=Het's%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+
+</div>
+
+<br/>
+
+<!-- ┌─────────────────── SNAKE ───────────────────┐ -->
+<div align="center">
+
+### ◈ &nbsp;CONTRIBUTION SNAKE&nbsp; ◈
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
----
+<br/>
 
-<!-- ================================================================
-                         3D CONTRIBUTION GRAPH
-     ================================================================ -->
-
+<!-- ┌─────────────────── 3D CONTRIBUTION ───────────────────┐ -->
 <div align="center">
 
-## ◈ 3D · Contribution Cosmos ◈
+### ◈ &nbsp;3D CONTRIBUTION COSMOS&nbsp; ◈
 
 <br/>
 
@@ -252,103 +228,92 @@ print(me.greet())
 
 </div>
 
----
+<br/>
 
-<!-- ================================================================
-                         TROPHIES
-     ================================================================ -->
-
+<!-- ┌─────────────────── TROPHIES ───────────────────┐ -->
 <div align="center">
 
-## ◈ Achievements · Trophy Cabinet ◈
+### ◈ &nbsp;TROPHY CABINET&nbsp; ◈
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Het-2004&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Het-2004&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience" width="100%" alt="GitHub Trophies" />
 
 </div>
 
----
+<br/>
 
-<!-- ================================================================
-                         TOP CONTRIBUTIONS
-     ================================================================ -->
-
+<!-- ┌─────────────────── TOP REPOS ───────────────────┐ -->
 <div align="center">
 
-## ◈ Impact · Top Contributed Repos ◈
+### ◈ &nbsp;TOP CONTRIBUTED REPOS&nbsp; ◈
 
 <br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Het-2004&limit=6&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=ffffff" width="70%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Het-2004&limit=6&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&border_radius=12" width="65%" alt="Top Contributions" />
 
 </div>
 
----
+<br/>
 
-<!-- ================================================================
-                         DEV QUOTE
-     ================================================================ -->
-
+<!-- ┌─────────────────── QUOTE ───────────────────┐ -->
 <div align="center">
 
-## ◈ Wisdom ◈
+### ◈ &nbsp;ENGINEERING PHILOSOPHY&nbsp; ◈
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
 
 <br/><br/>
 
-> **`"The best error message is the one that never shows up."` — Thomas Fuchs**
+> *"Any fool can write code that a computer can understand.*
+> *Good programmers write code that humans can understand."*
+> — **Martin Fowler**
 
 </div>
 
----
+<br/>
 
-<!-- ================================================================
-                         CONNECT
-     ================================================================ -->
-
+<!-- ┌─────────────────── CONNECT ───────────────────┐ -->
 <div align="center">
 
-## ◈ Establish Connection ◈
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
+
+### ◈ &nbsp;ESTABLISH CONNECTION&nbsp; ◈
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/hetsolanki">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/vasu_solanki_2">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14d-b9fe83e2de6b.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/31159824">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974469-2d50e8d3-3c42-4c6f-acab-6f5f8e7eff56.png"/>
-</a>
-&nbsp;&nbsp;
+<a href="https://linkedin.com/in/hetsolanki" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>&nbsp;
+<a href="https://instagram.com/vasu_solanki_2" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+</a>&nbsp;
+<a href="https://stackoverflow.com/users/31159824" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0d1117" />
+</a>&nbsp;
 <a href="mailto:hetpravinbhaisolanki2122004@gmail.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║  💬  Got an idea? Let's build something legendary!        ║
-║  📩  hetpravinbhaisolanki2122004@gmail.com                ║
-╚═══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║  💼  Open to Full-Time & Internship Opportunities        ║
+║  📩  hetpravinbhaisolanki2122004@gmail.com               ║
+║  🌐  Let's build something legendary together!           ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
+<br/>
 
-<!-- ================================================================
-                         FOOTER
-     ================================================================ -->
-
+<!-- ┌─────────────────── FOOTER ───────────────────┐ -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/line-rainbow.gif" width="100%" />
@@ -356,18 +321,18 @@ print(me.greet())
 <br/>
 
 ```
-  ██╗  ██╗███████╗████████╗     ███████╗ ██████╗ ██╗      █████╗ ███╗   ██╗██╗  ██╗██╗
-  ██║  ██║██╔════╝╚══██╔══╝     ██╔════╝██╔═══██╗██║     ██╔══██╗████╗  ██║██║ ██╔╝██║
-  ███████║█████╗     ██║        ███████╗██║   ██║██║     ███████║██╔██╗ ██║█████╔╝ ██║
-  ██╔══██║██╔══╝     ██║        ╚════██║██║   ██║██║     ██╔══██║██║╚██╗██║██╔═██╗ ██║
-  ██║  ██║███████╗   ██║        ███████║╚██████╔╝███████╗██║  ██║██║ ╚████║██║  ██╗██║
-  ╚═╝  ╚═╝╚══════╝   ╚═╝        ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝
+ ██╗  ██╗███████╗████████╗    ███████╗ ██████╗ ██╗      █████╗ ███╗   ██╗██╗  ██╗██╗
+ ██║  ██║██╔════╝╚══██╔══╝    ██╔════╝██╔═══██╗██║     ██╔══██╗████╗  ██║██║ ██╔╝██║
+ ███████║█████╗     ██║       ███████╗██║   ██║██║     ███████║██╔██╗ ██║█████╔╝ ██║
+ ██╔══██║██╔══╝     ██║       ╚════██║██║   ██║██║     ██╔══██║██║╚██╗██║██╔═██╗ ██║
+ ██║  ██║███████╗   ██║       ███████║╚██████╔╝███████╗██║  ██║██║ ╚████║██║  ██╗██║
+ ╚═╝  ╚═╝╚══════╝   ╚═╝       ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝
 ```
 
-<sub>⚡ Engineered with passion · Powered by caffeine · Deployed to the universe</sub>
+<sub>⚡ Engineered with precision · Powered by ambition · Shipped with passion</sub>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling" />
 
 </div>
