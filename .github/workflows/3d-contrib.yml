@@ -8,26 +8,30 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
         with:
           max-repos: 10
-          image-setting-file: ".github/settings/3d-contrib-settings.json"
 
-      - name: Commit & Push
+      - name: Commit & Push 3D Graph
         run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add -A .
-          git commit -m "🤖 Auto-update 3D contribution graph" || echo "No changes"
+          git commit -m "chore: auto-update 3D contribution graph [skip ci]" || echo "Nothing to commit"
           git push
