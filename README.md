@@ -1,124 +1,448 @@
-<div align="center">
+# 👋 Hi, I'm Het Solanki
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=HET%20%2F%2F%20SOLANKI&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=63&descSize=15&descColor=9FE7FF&color=0:111827:0B1220" alt="Het Solanki profile banner" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:020617&text=HET%20SOLANKI&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+</p>
 
-<br />
+<p align="center">
+  <a href="https://github.com/Het-2004">
+    <img src="https://img.shields.io/badge/GitHub-Het--2004-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolio-omega-liard-v3gb110b4q.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hetsolanki">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/hetsolanki"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=9FE7FF" alt="LinkedIn" /></a>
-<a href="https://portfolio-omega-liard-v3gb110b4q.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=9FE7FF" alt="Portfolio" /></a>
-<a href="mailto:hetps2122004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=9FE7FF" alt="Email" /></a>
+<p align="center">
+  <strong>Learn deeply. Build intentionally. Solve relentlessly. 🚀</strong>
+</p>
 
-</div>
+---
 
-<br />
+## 🧠 About Me
 
-> **I build software that is useful, understandable, and ready to grow.**
->
-> Currently exploring **system design**, **network security**, and the engineering details that turn good ideas into dependable products.
+I'm **Het Solanki**, a Computer Engineer focused on becoming a strong **Software Engineer** through disciplined learning, problem solving, and real-world engineering.
 
-## `01` — About me
+I enjoy understanding **how and why systems work**, not just making them work.
 
-I’m a Computer Science and Engineering student and software developer based in India. My work sits at the intersection of product thinking and engineering fundamentals: shaping clean user experiences, designing practical APIs, and learning how systems behave in the real world.
+My interests include:
+
+- 💻 Software Engineering
+- 🧠 Data Structures & Algorithms
+- 🌐 Full-Stack & Backend Development
+- ☕ Java & 🐍 Python
+- 🤖 AI & Automation
+- 🗄️ Databases & APIs
+- ⚙️ Systems & Developer Tools
+- ☁️ Cloud & DevOps fundamentals
+- 🇰🇷 Building toward an international software-engineering career
+
+> **I believe strong engineers are built by curiosity, deliberate practice, and shipping real things.**
+
+---
+
+## 🎯 Current Mission
 
 ```text
-FOCUS  →  Full-stack applications · REST APIs · Backend engineering
-LEARN  →  System design · Network security · Data structures & algorithms
-BUILD  →  Practical products · Developer tools · Reliable database-backed services
-VALUE  →  Clarity · Maintainability · Accessibility · Continuous improvement
+                    ┌─────────────────────────┐
+                    │     BECOME A STRONG     │
+                    │      SOFTWARE ENGINEER  │
+                    └────────────┬────────────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             ▼                   ▼                   ▼
+        🧠 Problem Solving   💻 Engineering      🚀 Projects
+             │                   │                   │
+             ▼                   ▼                   ▼
+           DSA              Full-Stack          Real-World
+           OOP              Backend             Systems
+           Algorithms       APIs                Applications
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 ▼
+                         🌏 GLOBAL CAREER
+                                 │
+                                 ▼
+                         🇰🇷 SOUTH KOREA
 ```
 
-## `02` — The stack
+---
 
-<div align="center">
+# 🛠️ Technology Stack
 
-| **LANGUAGES** | **FRONTEND** | **BACKEND** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css&theme=dark" alt="C, Java, Python, JavaScript, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" alt="React, Vite, Tailwind CSS, Bootstrap" /> | <img src="https://skillicons.dev/icons?i=nodejs,spring,hibernate,maven&theme=dark" alt="Node.js, Spring, Hibernate, Maven" /> |
-| **DATA** | **CLOUD & DELIVERY** | **AI & DEV TOOLS** |
-| <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="MySQL, MongoDB, PostgreSQL" /> | <img src="https://skillicons.dev/icons?i=azure,gcp,docker,git&theme=dark" alt="Azure, Google Cloud, Docker, Git" /> | <img src="https://skillicons.dev/icons?i=tensorflow,anaconda&theme=dark" alt="TensorFlow and Anaconda" /> |
+### 💻 Languages
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</p>
 
-<sub>Tools shown here represent technologies I use or explore; they are not proficiency rankings.</sub>
+### 🌐 Web & Application Development
 
-## `03` — What I like to build
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,spring" />
+</p>
 
-<table>
-<tr>
-<td width="50%">
+### 🗄️ Data & Databases
 
-### ◈ Product-minded web apps
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-Responsive interfaces that keep the user journey clear and the implementation maintainable.
+### 🤖 AI / Data
 
-</td>
-<td width="50%">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
-### ◈ API-first backends
+### ☁️ Tools, Cloud & DevOps
 
-Well-structured REST services with sensible data models and room to evolve.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,azure,gcp" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+> **Note:** This stack represents technologies I am learning, practicing, or building with. I prefer proving skills through projects rather than collecting badges.
 
-### ◈ Engineering experiments
+---
 
-Focused projects for learning algorithms, architecture, cloud, and security.
+# 🚀 Featured Projects
 
-</td>
-<td width="50%">
+## 🖥️ Build Your Own Shell
 
-### ◈ Useful automation
+A systems-oriented project written in **C**, exploring how a Unix-like shell works under the hood.
 
-Small tools that remove repetitive work and make development smoother.
+**Concepts:**
 
-</td>
-</tr>
-</table>
+`Process Execution` · `Pipes` · `I/O Redirection` · `Background Processes` · `Built-ins` · `Unix/Linux`
 
-## `04` — Find me online
+🔗 **[View Repository](https://github.com/Het-2004/Build-your-own-shell)**
 
-<div align="center">
+---
 
-<a href="https://linkedin.com/in/hetsolanki"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/31159824"><img src="https://img.shields.io/badge/Stack%20Overflow-Explore-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow profile" /></a>
-<a href="https://www.leetcode.com/het_solanki"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=111827" alt="LeetCode profile" /></a>
+## 💱 Currency Converter
 
-</div>
+A React-based web application for currency conversion and practical frontend development.
 
-## `05` — GitHub signal
+**Focus:**
 
-<div align="center">
+`ReactJS` · `JavaScript` · `UI` · `Application Logic`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Het-2004&show_icons=true&hide_border=true&theme=transparent&title_color=9FE7FF&icon_color=9FE7FF&text_color=9CA3AF&rank_icon=github" width="49%" alt="Het Solanki's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-2004&layout=compact&hide_border=true&theme=transparent&title_color=9FE7FF&text_color=9CA3AF&langs_count=8" width="49%" alt="Most-used programming languages on GitHub" />
+🔗 **[View Repository](https://github.com/Het-2004/Currency-Converter)**
 
-<br /><br />
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution activity" width="100%" />
-</picture>
+## ✅ To-Do List
 
-</div>
+A lightweight productivity application focused on interactive web development and practical JavaScript.
 
-The contribution animation is generated by [`.github/workflows/snake.yml`](.github/workflows/snake.yml). GitHub statistics are live and may change as activity is processed.
+**Focus:**
 
-## `06` — Contact
+`HTML` · `CSS` · `JavaScript` · `DOM` · `User Interaction`
 
-Have an idea, an opportunity, or a technical conversation in mind?
+🔗 **[View Repository](https://github.com/Het-2004/To-Do-list)**
 
-**Email:** [hetps2122004@gmail.com](mailto:hetps2122004@gmail.com)<br />
-**Portfolio:** [portfolio-omega-liard-v3gb110b4q.vercel.app](https://portfolio-omega-liard-v3gb110b4q.vercel.app/)<br />
-**LinkedIn:** [linkedin.com/in/hetsolanki](https://linkedin.com/in/hetsolanki)
+---
 
-<div align="center">
+## ☕ Java Programs
 
-<br />
+A collection of Java practice programs used to strengthen programming fundamentals, logic, and object-oriented concepts.
 
-<sub>Thanks for stopping by · Explore the repositories · Build something meaningful</sub>
+**Focus:**
 
-</div>
+`Java` · `OOP` · `Programming Fundamentals` · `Problem Solving`
+
+🔗 **[View Repository](https://github.com/Het-2004/JAVA_PROGRAM)**
+
+---
+
+# 🧠 DSA & Problem Solving
+
+I am building strong fundamentals instead of relying only on frameworks.
+
+### Learning Path
+
+```text
+Arrays
+  ↓
+Strings
+  ↓
+Hashing
+  ↓
+Linked Lists
+  ↓
+Stacks & Queues
+  ↓
+Recursion & Backtracking
+  ↓
+Trees
+  ↓
+Graphs
+  ↓
+Sorting & Searching
+  ↓
+Greedy Algorithms
+  ↓
+Dynamic Programming
+```
+
+For every problem, I try to understand:
+
+- Why the solution works
+- Time complexity
+- Space complexity
+- Edge cases
+- Alternative approaches
+- How to write clean, maintainable code
+
+---
+
+# 🔬 How I Learn
+
+```text
+┌─────────┐
+│  Learn  │
+└────┬────┘
+     ↓
+┌───────────┐
+│ Understand│
+└─────┬─────┘
+      ↓
+┌──────────┐
+│ Practice │
+└────┬─────┘
+     ↓
+┌─────────┐
+│  Build  │
+└────┬────┘
+     ↓
+┌─────────┐
+│  Break  │
+└────┬────┘
+     ↓
+┌─────────┐
+│  Debug  │
+└────┬────┘
+     ↓
+┌─────────┐
+│ Improve │
+└────┬────┘
+     ↓
+┌───────────┐
+│ Document  │
+└─────┬─────┘
+      ↓
+┌─────────┐
+│  Ship   │
+└─────────┘
+```
+
+> **Tutorials give knowledge. Projects turn knowledge into engineering ability.**
+
+---
+
+# 📚 Currently Learning
+
+### 💻 Software Engineering
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Clean Code
+- Design Patterns
+- REST APIs
+- Database Design
+- Testing & Debugging
+- Software Architecture
+- System Design fundamentals
+
+### 🌐 Full-Stack
+- Frontend engineering
+- Backend development
+- Authentication
+- API design
+- SQL & NoSQL
+- Deployment
+
+### 🤖 AI & Automation
+- Python
+- AI APIs
+- Automation
+- Machine Learning fundamentals
+- AI-powered applications
+
+### ☁️ Cloud & DevOps
+- Linux
+- Docker
+- CI/CD concepts
+- Cloud fundamentals
+- Application deployment
+
+### 🇰🇷 Korean
+- Korean language fundamentals
+- Technical vocabulary
+- Professional communication
+
+---
+
+# 🇰🇷 Long-Term Vision
+
+One of my long-term goals is to build a **Software Engineering career in South Korea**.
+
+I'm preparing across four dimensions:
+
+| Area | Focus |
+|---|---|
+| 💻 Technical | Programming, DSA, Full-Stack, Backend, System Design |
+| 🧠 Problem Solving | Algorithms, complexity, interview preparation |
+| 🌏 Professional | GitHub, portfolio, resume, networking, interviews |
+| 🇰🇷 Korea | Korean language, company research, international preparation |
+
+> **The goal isn't simply to get a job. The goal is to become an engineer capable of earning opportunities anywhere.**
+
+---
+
+# 🗺️ 2026 → 2027 Roadmap
+
+```text
+2026
+ │
+ ├── Strengthen Programming
+ ├── Master DSA Fundamentals
+ ├── Build Full-Stack Projects
+ ├── Improve Java & Python
+ ├── Build Backend/API Projects
+ ├── Learn Databases
+ ├── Learn Git/GitHub Properly
+ └── Start System Design
+          │
+          ▼
+2027
+ │
+ ├── Production-Quality Projects
+ ├── Advanced DSA
+ ├── System Design
+ ├── Cloud & DevOps
+ ├── Open Source
+ ├── Technical Interviews
+ ├── International Applications
+ └── 🇰🇷 Software Engineering Career
+```
+
+---
+
+# 📌 What I'm Building Toward
+
+I want my GitHub to become evidence of engineering ability—not just a collection of repositories.
+
+### My portfolio target
+
+- 🧩 Strong DSA repository
+- 🌐 Production-style full-stack application
+- ⚙️ Backend/API project
+- 🤖 AI/automation project
+- 🖥️ Systems programming project
+- ☁️ Deployed cloud project
+- 🌱 Meaningful open-source contributions
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Het-2004&theme=darkhub&no-frame=true&margin-w=8&row=1" />
+</p>
+
+Current GitHub achievements include:
+
+- 🏹 Quickdraw
+- 🦈 Pull Shark
+- ⚡ YOLO
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Het-2004&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-2004&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-2004&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+---
+
+# 📈 My Engineering Principles
+
+```text
+01  Understand before memorizing.
+02  Build before calling yourself experienced.
+03  Debug before giving up.
+04  Prefer fundamentals over hype.
+05  Write code other people can understand.
+06  Document what you learn.
+07  Keep improving existing work.
+08  Ship useful things.
+```
+
+---
+
+# 🌱 Beyond Code
+
+I'm interested in:
+
+- 🌏 Global technology
+- 🧠 Continuous learning
+- 💡 Product ideas
+- 🤖 AI and automation
+- 🏗️ Building useful software
+- 📖 Deep technical understanding
+- 🤝 Collaboration and open source
+
+---
+
+# 🤝 Open To
+
+- 💼 Software Engineering opportunities
+- 🧑‍💻 Internships
+- 🌐 Full-Stack / Backend projects
+- 🤝 Open-source collaboration
+- 🚀 Interesting engineering challenges
+- 🧠 Technical discussions
+- 🌏 International opportunities
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Het-2004">
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hetsolanki">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-omega-liard-v3gb110b4q.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### 🧠 Think deeply. 💻 Build boldly. 🌏 Go further.
+
+**Thanks for visiting my profile!**
+
+⭐ If you find something useful, feel free to explore and star my repositories.
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:111827,100:0f172a" />
+</p>
