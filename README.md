@@ -1,448 +1,199 @@
-# 👋 Hi, I'm Het Solanki
+👋 Hi, I'm Het Solanki
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:020617&text=HET%20SOLANKI&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:4c1d95,45:1d4ed8,100:0f172a&text=HET%20SOLANKI&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <strong>💡 Learn • Build • Improve • Create</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/Het-2004">
-    <img src="https://img.shields.io/badge/GitHub-Het--2004-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Het--2004-18181b?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://portfolio-omega-liard-v3gb110b4q.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hetsolanki">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <strong>Learn deeply. Build intentionally. Solve relentlessly. 🚀</strong>
-</p>
+🧑‍💻 About Me
 
----
+I'm Het Solanki, a Computer Engineer interested in Software Engineering, Web Development, Programming, AI, and technology.
 
-## 🧠 About Me
+I enjoy learning new concepts, experimenting with different technologies, and turning ideas into practical software.
 
-I'm **Het Solanki**, a Computer Engineer focused on becoming a strong **Software Engineer** through disciplined learning, problem solving, and real-world engineering.
+🎓 Computer Engineering
 
-I enjoy understanding **how and why systems work**, not just making them work.
+💻 Aspiring Software Engineer
 
-My interests include:
+🌐 Interested in Full-Stack & Backend Development
 
-- 💻 Software Engineering
-- 🧠 Data Structures & Algorithms
-- 🌐 Full-Stack & Backend Development
-- ☕ Java & 🐍 Python
-- 🤖 AI & Automation
-- 🗄️ Databases & APIs
-- ⚙️ Systems & Developer Tools
-- ☁️ Cloud & DevOps fundamentals
-- 🇰🇷 Building toward an international software-engineering career
+☕ Learning and working with Java
 
-> **I believe strong engineers are built by curiosity, deliberate practice, and shipping real things.**
+🐍 Exploring Python
 
----
+🤖 Interested in AI & Automation
 
-## 🎯 Current Mission
+🗄️ Interested in databases and APIs
 
-```text
-                    ┌─────────────────────────┐
-                    │     BECOME A STRONG     │
-                    │      SOFTWARE ENGINEER  │
-                    └────────────┬────────────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             ▼                   ▼                   ▼
-        🧠 Problem Solving   💻 Engineering      🚀 Projects
-             │                   │                   │
-             ▼                   ▼                   ▼
-           DSA              Full-Stack          Real-World
-           OOP              Backend             Systems
-           Algorithms       APIs                Applications
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 ▼
-                         🌏 GLOBAL CAREER
-                                 │
-                                 ▼
-                         🇰🇷 SOUTH KOREA
-```
+⚙️ Curious about how software and systems work
 
----
+📚 Always learning and improving
 
-# 🛠️ Technology Stack
+Build with curiosity. Improve with consistency.
 
-### 💻 Languages
+🛠️ Tech Stack
+
+💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </p>
 
-### 🌐 Web & Application Development
+🌐 Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,spring" />
 </p>
 
-### 🗄️ Data & Databases
+🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🤖 AI / Data
+🤖 AI & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-### ☁️ Tools, Cloud & DevOps
+🧰 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,azure,gcp" />
 </p>
 
-> **Note:** This stack represents technologies I am learning, practicing, or building with. I prefer proving skills through projects rather than collecting badges.
+I continuously expand my skills through learning, experimentation, and practical development.
 
----
+📚 Currently Learning
 
-# 🚀 Featured Projects
+💻 Software Engineering fundamentals
 
-## 🖥️ Build Your Own Shell
+☕ Java development
 
-A systems-oriented project written in **C**, exploring how a Unix-like shell works under the hood.
+🐍 Python development
 
-**Concepts:**
+🌐 Full-Stack Web Development
 
-`Process Execution` · `Pipes` · `I/O Redirection` · `Background Processes` · `Built-ins` · `Unix/Linux`
+⚙️ Backend development
 
-🔗 **[View Repository](https://github.com/Het-2004/Build-your-own-shell)**
+🗄️ SQL & database concepts
 
----
+🔌 REST APIs
 
-## 💱 Currency Converter
+🤖 AI & automation
 
-A React-based web application for currency conversion and practical frontend development.
+☁️ Cloud & development tools
 
-**Focus:**
+🧩 Writing cleaner and more maintainable code
 
-`ReactJS` · `JavaScript` · `UI` · `Application Logic`
+💭 What Interests Me
 
-🔗 **[View Repository](https://github.com/Het-2004/Currency-Converter)**
+Software Engineering
+       │
+       ├── 💻 Application Development
+       ├── 🌐 Web Technologies
+       ├── ⚙️ Backend Systems
+       ├── 🤖 AI & Automation
+       ├── 🗄️ Databases
+       ├── ☁️ Cloud Technologies
+       └── 🧠 Problem Solving
 
----
+🌱 My Philosophy
 
-## ✅ To-Do List
+Don't just learn technology — understand it, experiment with it, and use it to build something useful.
 
-A lightweight productivity application focused on interactive web development and practical JavaScript.
+I believe good engineering comes from:
 
-**Focus:**
+Curiosity 🔍
 
-`HTML` · `CSS` · `JavaScript` · `DOM` · `User Interaction`
+Consistent learning 📚
 
-🔗 **[View Repository](https://github.com/Het-2004/To-Do-list)**
+Practical experience 🛠️
 
----
+Clean code ✨
 
-## ☕ Java Programs
+Logical thinking 🧠
 
-A collection of Java practice programs used to strengthen programming fundamentals, logic, and object-oriented concepts.
+Continuous improvement 📈
 
-**Focus:**
-
-`Java` · `OOP` · `Programming Fundamentals` · `Problem Solving`
-
-🔗 **[View Repository](https://github.com/Het-2004/JAVA_PROGRAM)**
-
----
-
-# 🧠 DSA & Problem Solving
-
-I am building strong fundamentals instead of relying only on frameworks.
-
-### Learning Path
-
-```text
-Arrays
-  ↓
-Strings
-  ↓
-Hashing
-  ↓
-Linked Lists
-  ↓
-Stacks & Queues
-  ↓
-Recursion & Backtracking
-  ↓
-Trees
-  ↓
-Graphs
-  ↓
-Sorting & Searching
-  ↓
-Greedy Algorithms
-  ↓
-Dynamic Programming
-```
-
-For every problem, I try to understand:
-
-- Why the solution works
-- Time complexity
-- Space complexity
-- Edge cases
-- Alternative approaches
-- How to write clean, maintainable code
-
----
-
-# 🔬 How I Learn
-
-```text
-┌─────────┐
-│  Learn  │
-└────┬────┘
-     ↓
-┌───────────┐
-│ Understand│
-└─────┬─────┘
-      ↓
-┌──────────┐
-│ Practice │
-└────┬─────┘
-     ↓
-┌─────────┐
-│  Build  │
-└────┬────┘
-     ↓
-┌─────────┐
-│  Break  │
-└────┬────┘
-     ↓
-┌─────────┐
-│  Debug  │
-└────┬────┘
-     ↓
-┌─────────┐
-│ Improve │
-└────┬────┘
-     ↓
-┌───────────┐
-│ Document  │
-└─────┬─────┘
-      ↓
-┌─────────┐
-│  Ship   │
-└─────────┘
-```
-
-> **Tutorials give knowledge. Projects turn knowledge into engineering ability.**
-
----
-
-# 📚 Currently Learning
-
-### 💻 Software Engineering
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Clean Code
-- Design Patterns
-- REST APIs
-- Database Design
-- Testing & Debugging
-- Software Architecture
-- System Design fundamentals
-
-### 🌐 Full-Stack
-- Frontend engineering
-- Backend development
-- Authentication
-- API design
-- SQL & NoSQL
-- Deployment
-
-### 🤖 AI & Automation
-- Python
-- AI APIs
-- Automation
-- Machine Learning fundamentals
-- AI-powered applications
-
-### ☁️ Cloud & DevOps
-- Linux
-- Docker
-- CI/CD concepts
-- Cloud fundamentals
-- Application deployment
-
-### 🇰🇷 Korean
-- Korean language fundamentals
-- Technical vocabulary
-- Professional communication
-
----
-
-# 🇰🇷 Long-Term Vision
-
-One of my long-term goals is to build a **Software Engineering career in South Korea**.
-
-I'm preparing across four dimensions:
-
-| Area | Focus |
-|---|---|
-| 💻 Technical | Programming, DSA, Full-Stack, Backend, System Design |
-| 🧠 Problem Solving | Algorithms, complexity, interview preparation |
-| 🌏 Professional | GitHub, portfolio, resume, networking, interviews |
-| 🇰🇷 Korea | Korean language, company research, international preparation |
-
-> **The goal isn't simply to get a job. The goal is to become an engineer capable of earning opportunities anywhere.**
-
----
-
-# 🗺️ 2026 → 2027 Roadmap
-
-```text
-2026
- │
- ├── Strengthen Programming
- ├── Master DSA Fundamentals
- ├── Build Full-Stack Projects
- ├── Improve Java & Python
- ├── Build Backend/API Projects
- ├── Learn Databases
- ├── Learn Git/GitHub Properly
- └── Start System Design
-          │
-          ▼
-2027
- │
- ├── Production-Quality Projects
- ├── Advanced DSA
- ├── System Design
- ├── Cloud & DevOps
- ├── Open Source
- ├── Technical Interviews
- ├── International Applications
- └── 🇰🇷 Software Engineering Career
-```
-
----
-
-# 📌 What I'm Building Toward
-
-I want my GitHub to become evidence of engineering ability—not just a collection of repositories.
-
-### My portfolio target
-
-- 🧩 Strong DSA repository
-- 🌐 Production-style full-stack application
-- ⚙️ Backend/API project
-- 🤖 AI/automation project
-- 🖥️ Systems programming project
-- ☁️ Deployed cloud project
-- 🌱 Meaningful open-source contributions
-
----
-
-# 🏆 Achievements
+🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Het-2004&theme=darkhub&no-frame=true&margin-w=8&row=1" />
 </p>
 
-Current GitHub achievements include:
-
-- 🏹 Quickdraw
-- 🦈 Pull Shark
-- ⚡ YOLO
-
----
-
-# 📊 GitHub Analytics
+📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Het-2004&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Het-2004&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-2004&hide_border=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-2004&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-2004&layout=compact&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-2004&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
----
+📈 GitHub Activity
 
-# 📈 My Engineering Principles
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Het-2004&theme=tokyo-night&hide_border=true" />
+</p>
 
-```text
-01  Understand before memorizing.
-02  Build before calling yourself experienced.
-03  Debug before giving up.
-04  Prefer fundamentals over hype.
-05  Write code other people can understand.
-06  Document what you learn.
-07  Keep improving existing work.
-08  Ship useful things.
-```
+🤝 Open To
 
----
+💼 Software Engineering opportunities
 
-# 🌱 Beyond Code
+🧑‍💻 Internships
 
-I'm interested in:
+🤝 Open-source collaboration
 
-- 🌏 Global technology
-- 🧠 Continuous learning
-- 💡 Product ideas
-- 🤖 AI and automation
-- 🏗️ Building useful software
-- 📖 Deep technical understanding
-- 🤝 Collaboration and open source
+🚀 Interesting software projects
 
----
+🧠 Technical discussions
 
-# 🤝 Open To
+🌐 Development opportunities
 
-- 💼 Software Engineering opportunities
-- 🧑‍💻 Internships
-- 🌐 Full-Stack / Backend projects
-- 🤝 Open-source collaboration
-- 🚀 Interesting engineering challenges
-- 🧠 Technical discussions
-- 🌏 International opportunities
-
----
-
-# 📫 Connect With Me
+📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Het-2004">
-    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hetsolanki">
-    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolio-omega-liard-v3gb110b4q.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
 
-### 🧠 Think deeply. 💻 Build boldly. 🌏 Go further.
+🧠 Think • Build • Learn • Grow
 
-**Thanks for visiting my profile!**
-
-⭐ If you find something useful, feel free to explore and star my repositories.
+Thanks for visiting my profile! 👋
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:111827,100:0f172a" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:1d4ed8,100:4c1d95" />
 </p>
