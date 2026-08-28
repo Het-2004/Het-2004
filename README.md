@@ -108,28 +108,42 @@ I believe good engineering comes from:
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Het-2004&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="GitHub achievements" width="100%" />
-</p>
+<div align="center">
+
+<a href="https://github.com/Het-2004?tab=achievements"><img src="https://img.shields.io/badge/View%20GitHub%20Achievements-18181b?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements" /></a>
+<img src="https://img.shields.io/github/followers/Het-2004?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub followers" />
+<img src="https://img.shields.io/github/repos/Het-2004?style=for-the-badge&logo=github&label=Public%20repositories&color=7c3aed" alt="Public GitHub repositories" />
+
+</div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Het-2004&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Het-2004&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" width="49%" />
+<a href="https://github.com/Het-2004"><img src="https://img.shields.io/github/followers/Het-2004?style=for-the-badge&logo=github&label=Followers&color=2563eb" alt="GitHub followers" /></a>
+<a href="https://github.com/Het-2004?tab=repositories"><img src="https://img.shields.io/github/repos/Het-2004?style=for-the-badge&logo=github&label=Repositories&color=7c3aed" alt="GitHub repositories" /></a>
+<a href="https://github.com/Het-2004?tab=stars"><img src="https://img.shields.io/github/stars/Het-2004?style=for-the-badge&logo=github&label=Stars&color=f59e0b" alt="Stars across GitHub repositories" /></a>
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-2004&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used programming languages" width="55%" />
+<a href="https://github.com/Het-2004"><img src="https://img.shields.io/badge/Primary%20languages-C%20%7C%20Java%20%7C%20Python%20%7C%20JavaScript-0f172a?style=for-the-badge" alt="Primary languages: C, Java, Python, and JavaScript" /></a>
 
 </div>
 
+> **Note:** The live contribution calendar and detailed statistics are always available on the [GitHub profile](https://github.com/Het-2004). This avoids unreliable third-party statistic cards in the README.
+
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Het-2004&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p>
+<div align="center">
+
+<a href="https://github.com/Het-2004"><img src="https://img.shields.io/badge/Open%20GitHub%20Contribution%20Calendar-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub contribution calendar" /></a>
+<a href="https://github.com/Het-2004?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://img.shields.io/badge/View%20Activity%20Overview-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity overview" /></a>
+
+<br /><br />
+
+<sub>GitHub’s own profile page provides the most accurate contribution calendar and activity timeline.</sub>
+
+</div>
 
 ## 🤝 Open To
 
