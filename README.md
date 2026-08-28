@@ -1,33 +1,124 @@
-<h1 align="center">Hi 👋, I'm Het Solanki</h1>
-<h3 align="center">Software Engineer & Full Stack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=het-2004&label=Profile%20views&color=0e75b6&style=flat" alt="het-2004" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=HET%20%2F%2F%20SOLANKI&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=63&descSize=15&descColor=9FE7FF&color=0:111827:0B1220" alt="Het Solanki profile banner" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=het-2004" alt="het-2004" /></a> </p>
+<br />
 
-- 🌱 I’m currently learning **System Design and Network Security**
+<a href="https://linkedin.com/in/hetsolanki"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=9FE7FF" alt="LinkedIn" /></a>
+<a href="https://portfolio-omega-liard-v3gb110b4q.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=9FE7FF" alt="Portfolio" /></a>
+<a href="mailto:hetps2122004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=9FE7FF" alt="Email" /></a>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-omega-liard-v3gb110b4q.vercel.app/](https://portfolio-omega-liard-v3gb110b4q.vercel.app/)
+</div>
 
-- 📫 How to reach me **hetps2122004@gmail.com**
+<br />
 
-- 📄 Know about my experiences [Full stack Internship](Full stack Internship)
+> **I build software that is useful, understandable, and ready to grow.**
+>
+> Currently exploring **system design**, **network security**, and the engineering details that turn good ideas into dependable products.
 
-- ⚡ Fun fact **I am good in Online Game**
+## `01` — About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hetsolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hetsolanki" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/het-solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="het-solanki" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/het_solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="het_solanki" height="30" width="40" /></a>
-</p>
+I’m a Computer Science and Engineering student and software developer based in India. My work sits at the intersection of product thinking and engineering fundamentals: shaping clean user experiences, designing practical APIs, and learning how systems behave in the real world.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+```text
+FOCUS  →  Full-stack applications · REST APIs · Backend engineering
+LEARN  →  System design · Network security · Data structures & algorithms
+BUILD  →  Practical products · Developer tools · Reliable database-backed services
+VALUE  →  Clarity · Maintainability · Accessibility · Continuous improvement
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=het-2004&show_icons=true&locale=en&layout=compact" alt="het-2004" /></p>
+## `02` — The stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=het-2004&show_icons=true&locale=en" alt="het-2004" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=het-2004&" alt="het-2004" /></p>
+| **LANGUAGES** | **FRONTEND** | **BACKEND** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css&theme=dark" alt="C, Java, Python, JavaScript, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" alt="React, Vite, Tailwind CSS, Bootstrap" /> | <img src="https://skillicons.dev/icons?i=nodejs,spring,hibernate,maven&theme=dark" alt="Node.js, Spring, Hibernate, Maven" /> |
+| **DATA** | **CLOUD & DELIVERY** | **AI & DEV TOOLS** |
+| <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="MySQL, MongoDB, PostgreSQL" /> | <img src="https://skillicons.dev/icons?i=azure,gcp,docker,git&theme=dark" alt="Azure, Google Cloud, Docker, Git" /> | <img src="https://skillicons.dev/icons?i=tensorflow,anaconda&theme=dark" alt="TensorFlow and Anaconda" /> |
 
+</div>
+
+<sub>Tools shown here represent technologies I use or explore; they are not proficiency rankings.</sub>
+
+## `03` — What I like to build
+
+<table>
+<tr>
+<td width="50%">
+
+### ◈ Product-minded web apps
+
+Responsive interfaces that keep the user journey clear and the implementation maintainable.
+
+</td>
+<td width="50%">
+
+### ◈ API-first backends
+
+Well-structured REST services with sensible data models and room to evolve.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ◈ Engineering experiments
+
+Focused projects for learning algorithms, architecture, cloud, and security.
+
+</td>
+<td width="50%">
+
+### ◈ Useful automation
+
+Small tools that remove repetitive work and make development smoother.
+
+</td>
+</tr>
+</table>
+
+## `04` — Find me online
+
+<div align="center">
+
+<a href="https://linkedin.com/in/hetsolanki"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://stackoverflow.com/users/31159824"><img src="https://img.shields.io/badge/Stack%20Overflow-Explore-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow profile" /></a>
+<a href="https://www.leetcode.com/het_solanki"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=111827" alt="LeetCode profile" /></a>
+
+</div>
+
+## `05` — GitHub signal
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Het-2004&show_icons=true&hide_border=true&theme=transparent&title_color=9FE7FF&icon_color=9FE7FF&text_color=9CA3AF&rank_icon=github" width="49%" alt="Het Solanki's GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Het-2004&layout=compact&hide_border=true&theme=transparent&title_color=9FE7FF&text_color=9CA3AF&langs_count=8" width="49%" alt="Most-used programming languages on GitHub" />
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Het-2004/Het-2004/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution activity" width="100%" />
+</picture>
+
+</div>
+
+The contribution animation is generated by [`.github/workflows/snake.yml`](.github/workflows/snake.yml). GitHub statistics are live and may change as activity is processed.
+
+## `06` — Contact
+
+Have an idea, an opportunity, or a technical conversation in mind?
+
+**Email:** [hetps2122004@gmail.com](mailto:hetps2122004@gmail.com)<br />
+**Portfolio:** [portfolio-omega-liard-v3gb110b4q.vercel.app](https://portfolio-omega-liard-v3gb110b4q.vercel.app/)<br />
+**LinkedIn:** [linkedin.com/in/hetsolanki](https://linkedin.com/in/hetsolanki)
+
+<div align="center">
+
+<br />
+
+<sub>Thanks for stopping by · Explore the repositories · Build something meaningful</sub>
+
+</div>
