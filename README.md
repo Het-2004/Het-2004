@@ -1,6 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Het Solanki
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:4c1d95,45:1d4ed8,100:0f172a&text=HET%20SOLANKI&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" alt="Het Solanki profile banner" width="100%" />
 
@@ -118,7 +117,7 @@ I believe good engineering comes from:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Het-2004&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Het-2004&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Het-2004&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" width="49%" />
 
 <br />
 
